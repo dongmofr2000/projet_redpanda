@@ -75,3 +75,5 @@ Démonstration du Pipeline ETL	[Lien vers la Vidéo YouTube de Démonstration]
 •	Montrer le processeur Spark démarrant (avec le plan d'exécution).
 •	Finaliser en listant les fichiers Parquet pour prouver l'exportation des données.
 
+<img width="1288" height="604" alt="image" src="https://github.com/user-attachments/assets/5f45bea3-191a-482f-b8da-d2ec20edd563" />
+
