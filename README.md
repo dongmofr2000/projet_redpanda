@@ -65,17 +65,13 @@ docker exec -it spark-processor bash
 ls -R /opt/app/output/ticket_counts
 
 Vous devriez voir des fichiers nommés part-0000x-***.parquet.
+
+
 🎥 3. Vidéo de Démonstration
 Cette courte vidéo explique le fonctionnement du pipeline, depuis le lancement du producteur jusqu'à la vérification des fichiers Parquet générés par Spark.
-Support Vidéo : YouTube
+Support Vidéo : Loom
 Description	Lien d'Intégration
-Démonstration du Pipeline ETL	[Lien vers la Vidéo YouTube de Démonstration]
-(Remplacez le lien ci-dessus par l'URL de votre vidéo YouTube/Loom pour une intégration complète.)
-(Dans votre vidéo, n'oubliez pas de :)
-•	Expliquer rapidement le rôle de Redpanda (Kafka) et de PySpark.
-•	Montrer le producteur envoyant des messages.
-•	Montrer le processeur Spark démarrant (avec le plan d'exécution).
-•	Finaliser en listant les fichiers Parquet pour prouver l'exportation des données.
+Démonstration du Pipeline ETL	[[Lien vers la Vidéo Loom de Démonstration]](https://www.loom.com/share/eb1422faadf04df5b8ca10dd998e974d?sid=055f35e1-9314-47e9-b45c-2915a90c930e)
 
 
 
