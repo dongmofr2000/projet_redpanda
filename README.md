@@ -7,6 +7,8 @@ et l'exportation vers des fichiers Parquet pour le stockage analytique.
 🏗️ 1. Architecture du Pipeline (Diagramme Mermaid)
 Le diagramme de flux ci-dessous illustre l'architecture de votre pipeline de données, de la source (Producteur Python) au stockage final (Parquet).
 
+
+<img width="1288" height="604" alt="image" src="https://github.com/user-attachments/assets/5f45bea3-191a-482f-b8da-d2ec20edd563" />
 graph LR
     subgraph Producteur
         P[Producteur Python]
@@ -75,5 +77,5 @@ Démonstration du Pipeline ETL	[Lien vers la Vidéo YouTube de Démonstration]
 •	Montrer le processeur Spark démarrant (avec le plan d'exécution).
 •	Finaliser en listant les fichiers Parquet pour prouver l'exportation des données.
 
-<img width="1288" height="604" alt="image" src="https://github.com/user-attachments/assets/5f45bea3-191a-482f-b8da-d2ec20edd563" />
+
 
